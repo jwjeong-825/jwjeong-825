@@ -37,14 +37,15 @@ AI, Backend, Cloud 분야를 공부하고 있는 컴퓨터공학 전공 학생�
 
 ## 🛠 Tech Stack
 
-- Python
-- Linux
-- AWS
-- FastAPI
-- Docker
-- Git / GitHub
-- SQL
+## 🛠 Tech Stack
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ---
 
 ## 🎯 Goal
@@ -66,3 +67,25 @@ AI 기술을 활용한 서비스 개발 역량을 키우는 것이 목표입니�
 ## 📈 GitHub Activity
 
 실습, 프로젝트, 특강 내용을 GitHub에 꾸준히 기록하며 학습하고 있습니다.
+
+---
+
+## 📦 Projects
+
+### Linux System Programming Study
+
+Linux / Unix 시스템 프로그래밍 학습 기록 저장소
+
+### AWS Cloud Study
+
+AWS 네트워크 및 클라우드 아키텍처 실습 저장소
+
+### Pokemon Center (In Progress)
+
+FastAPI 기반 개인 프로젝트
+
+- Backend
+- Docker
+- AWS Deploy
+- Database
+- CI/CD 예정
