@@ -1,14 +1,15 @@
 # 👋 Hello, I'm Juwon Jeong
 
-Backend / Cloud / DevOps 를 공부하고 있는 컴퓨터공학 전공 학생입니다.
+AI, Backend, Cloud 분야를 공부하고 있는 컴퓨터공학 전공 학생입니다.
 
 ---
 
 ## 🚀 Current Interests
 
-- Linux System Programming
-- AWS Cloud
+- AI Application
 - Backend Development
+- Cloud Computing
+- Linux System Programming
 - DevOps / MLOps
 - Docker
 - FastAPI
@@ -36,30 +37,32 @@ Backend / Cloud / DevOps 를 공부하고 있는 컴퓨터공학 전공 학생�
 
 ## 🛠 Tech Stack
 
+- Python
 - Linux
 - AWS
-- Python
 - FastAPI
 - Docker
 - Git / GitHub
+- SQL
 
 ---
 
 ## 🎯 Goal
 
-클라우드와 DevOps 기반의 서비스 개발 및 배포 역량을 키우는 것이 목표입니다.
+AI 기술을 활용한 서비스 개발 역량을 키우는 것이 목표입니다.
 
 현재:
 - Linux
-- AWS
 - Backend
+- AWS
 - Docker
+- AI Application
 - CI/CD
 
-흐름으로 학습 중입니다.
+등을 학습하며 다양한 프로젝트와 실습을 진행하고 있습니다.
 
 ---
 
 ## 📈 GitHub Activity
 
-꾸준한 기록과 프로젝트 기반 학습을 진행하고 있습니다.
+실습, 프로젝트, 특강 내용을 GitHub에 꾸준히 기록하며 학습하고 있습니다.
