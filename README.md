@@ -89,12 +89,13 @@ Linux / Unix 시스템 프로그래밍 학습 기록 저장소
 
 AWS 네트워크 및 클라우드 아키텍처 실습 저장소
 
-### Pokemon Center (In Progress)
+### Pokemon Center Web Project
 
-FastAPI 기반 개인 프로젝트
+FastAPI 기반의 포켓몬 보관 웹 서비스 개인 프로젝트입니다.
 
-- Backend
-- Docker
-- AWS Deploy
-- Database
-- CI/CD 예정
+- 포켓몬 등록 / 조회 / 데리고 가기 기능 구현
+- SQLite 기반 데이터 저장
+- HTML/CSS/JavaScript 기반 UI 구현
+- Docker 및 Docker Compose를 이용한 컨테이너화
+- AWS EC2 환경 배포 경험
+- GitHub 기반 프로젝트 관리
