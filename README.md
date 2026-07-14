@@ -81,21 +81,38 @@ AI 기술을 활용한 서비스 개발 역량을 키우는 것이 목표입니�
 
 ## 📦 Projects
 
-### Linux System Programming Study
+### 🎓 EduMap AI
+공공데이터 기반 AI 대학·학과 탐색 플랫폼 개인 프로젝트입니다.
 
-Linux / Unix 시스템 프로그래밍 학습 기록 저장소
+- 대학/학과 검색 및 필터링 기능
+- 공공데이터(Open API) 활용
+- FastAPI 기반 REST API 개발
+- HTML/CSS/JavaScript 기반 UI 구현
+- SQLite 기반 데이터 관리
+- Docker 및 Docker Compose를 이용한 컨테이너화
+- AWS EC2 환경 배포
+- GitHub 기반 프로젝트 관리
 
-### AWS Cloud Study
+---
 
-AWS 네트워크 및 클라우드 아키텍처 실습 저장소
-
-### Pokemon Center Web Project
-
+### 🐾 Pokemon Center Web Project
 FastAPI 기반의 포켓몬 보관 웹 서비스 개인 프로젝트입니다.
 
-- 포켓몬 등록 / 조회 / 데리고 가기 기능 구현
+- 포켓몬 등록 / 조회 / 삭제 기능 구현
 - SQLite 기반 데이터 저장
 - HTML/CSS/JavaScript 기반 UI 구현
 - Docker 및 Docker Compose를 이용한 컨테이너화
-- AWS EC2 환경 배포 경험
+- AWS EC2 환경 배포
 - GitHub 기반 프로젝트 관리
+
+---
+
+### ☁️ AWS Cloud Study
+
+AWS 네트워크 및 클라우드 아키텍처 실습 저장소
+
+---
+
+### 🐧 Linux System Programming Study
+
+Linux / Unix 시스템 프로그래밍 학습 기록 저장소
